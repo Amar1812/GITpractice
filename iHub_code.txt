@@ -1,3 +1,11 @@
 ********iHub application************
 
+<<<<<<< HEAD
 Amar changes
+=======
+
+
+
+
+Daniel Changes
+>>>>>>> feature/ihub_development_Daniel
